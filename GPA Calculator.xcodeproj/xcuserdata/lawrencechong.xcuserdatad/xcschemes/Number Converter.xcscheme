@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D0A734218CD34D000CEDE9F"
-               BuildableName = "Number Converter.app"
-               BlueprintName = "Number Converter"
-               ReferencedContainer = "container:Number Converter.xcodeproj">
+               BuildableName = "GPA Calculator.app"
+               BlueprintName = "GPA Calculator"
+               ReferencedContainer = "container:GPA Calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D0A736618CD34D000CEDE9F"
-               BuildableName = "Number ConverterTests.xctest"
-               BlueprintName = "Number ConverterTests"
-               ReferencedContainer = "container:Number Converter.xcodeproj">
+               BuildableName = "GPA CalculatorTests.xctest"
+               BlueprintName = "GPA CalculatorTests"
+               ReferencedContainer = "container:GPA Calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D0A734218CD34D000CEDE9F"
-            BuildableName = "Number Converter.app"
-            BlueprintName = "Number Converter"
-            ReferencedContainer = "container:Number Converter.xcodeproj">
+            BuildableName = "GPA Calculator.app"
+            BlueprintName = "GPA Calculator"
+            ReferencedContainer = "container:GPA Calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D0A734218CD34D000CEDE9F"
-            BuildableName = "Number Converter.app"
-            BlueprintName = "Number Converter"
-            ReferencedContainer = "container:Number Converter.xcodeproj">
+            BuildableName = "GPA Calculator.app"
+            BlueprintName = "GPA Calculator"
+            ReferencedContainer = "container:GPA Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D0A734218CD34D000CEDE9F"
-            BuildableName = "Number Converter.app"
-            BlueprintName = "Number Converter"
-            ReferencedContainer = "container:Number Converter.xcodeproj">
+            BuildableName = "GPA Calculator.app"
+            BlueprintName = "GPA Calculator"
+            ReferencedContainer = "container:GPA Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
